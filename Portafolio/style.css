@@ -430,6 +430,7 @@ footer h2{
     .main_about{
         width: 100%;
         padding-top: 90px;
+        padding-bottom: 30px;
     }
     
     .main_title{
@@ -437,7 +438,7 @@ footer h2{
     }
 
     .main_habilidades{
-        height:70vh;
+        height:50vh;
     }
     
     .main_skills{
@@ -450,7 +451,9 @@ footer h2{
     }
     
 
-
+.main_services{
+    margin-top: 30px;
+}
     .main_services_world{
         height:100vh;
         padding-bottom: 30px;
