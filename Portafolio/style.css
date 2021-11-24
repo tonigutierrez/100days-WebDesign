@@ -457,7 +457,7 @@ footer h2{
 
     .main_services_world{
         height:100vh;
-        padding-bottom: 30px;
+        margin-bottom: 30px;
     }
     
     .services_icons{
@@ -468,7 +468,7 @@ footer h2{
 
     .main_portafolio{
         height:130vh;
-        padding-top: 60px;
+        margin-top: 60px;
     }
     
     
