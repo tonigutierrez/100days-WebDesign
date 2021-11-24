@@ -384,7 +384,7 @@ footer h2{
     filter: brightness(80%);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width:360px){
 
     .header_nav ul {
         height:40vh;
@@ -423,7 +423,7 @@ footer h2{
     }
     
     .main{
-        height:50vh;
+        height:70vh;
     }
     
     
@@ -442,6 +442,7 @@ footer h2{
     
     .main_skills{
         margin-bottom: 30px;
+        font-size: 25px;
     }
     
     .tamanio{
