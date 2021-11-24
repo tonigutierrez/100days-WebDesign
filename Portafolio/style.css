@@ -384,7 +384,7 @@ footer h2{
     filter: brightness(80%);
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:1600px){
 
     .header_nav ul {
         height:40vh;
