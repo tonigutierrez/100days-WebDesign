@@ -285,7 +285,8 @@ header{
 }
 
 .main_projects figure:hover img{
-    filter: blur(8px);
+    filter: brightness(20%);
+    
 }
 
 .main_projects figure:hover .proj_text p{
